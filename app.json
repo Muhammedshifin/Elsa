@@ -70,11 +70,11 @@
         },
         "FILE_FORWARD": {
             "description": "File REDIRECT TO Channel , give Channel link for redirect file eg:https://t.me/abcdefgkkjajjm.",
-            "required": true
+            "required": false
         },
         "DELETE_CHANNELS": {
              "description": "Delete Multiple files from db, channel id -100xxxxxxxx.",
-             "required": true
+             "required": false
         }
     },
     "addons": [],
